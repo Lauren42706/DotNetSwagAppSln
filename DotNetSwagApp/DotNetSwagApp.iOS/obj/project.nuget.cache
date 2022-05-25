@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vS/lt72DJbk9WATL+mxKQ4bwy93hEIEtYWNh2iilAVBlixR/r8awT2Cdxlu11XhH5gd1V1yvvaUVy5BhtIElw==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\DotNetSwagAppSln\\DotNetSwagApp\\DotNetSwagApp.iOS\\DotNetSwagApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
