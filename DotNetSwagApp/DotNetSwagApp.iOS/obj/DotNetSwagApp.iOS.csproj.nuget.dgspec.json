@@ -115,10 +115,6 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
-            "SQLite": {
-              "target": "Package",
-              "version": "[3.13.0, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
