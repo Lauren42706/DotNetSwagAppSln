@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UbFRqV9wqeWLINN7Nv6St2SeX5DR6uWQxDUgPEYf7DqSlu0mDtLtIUbymuX5f7gwme9l8kCtiT+2t4A2ue3FYQ==",
+  "dgSpecHash": "WU8sst9mJJzXnjNqI52iKjr/rd1ynaFHcleaYdfdpChItzImbsGlfCD8G29SrH2hsVyRpaDCHeXkCUYCOdfHlA==",
   "success": true,
   "projectFilePath": "C:\\Xamarin\\DotNetSwagAppSln\\DotNetSwagApp\\DotNetSwagApp\\DotNetSwagApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

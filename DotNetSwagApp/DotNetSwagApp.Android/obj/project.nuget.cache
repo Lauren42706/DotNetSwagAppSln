@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hg0PmUfJtarD/22yjArQmo2EjrEYSJEf24FRQDVylHJ0wSo/SbXv+V9UI1ZMYb5LwValSB8L313M992beXBYFw==",
+  "dgSpecHash": "Qh9VecoDXYBQ7FSBjGC0wi8R4xY1K7WnDu1ZFlATgbE60ZXx8ebVPF7wzfloQfxiMgmA3bee4tX8mb4NuR+rTQ==",
   "success": true,
   "projectFilePath": "C:\\Xamarin\\DotNetSwagAppSln\\DotNetSwagApp\\DotNetSwagApp.Android\\DotNetSwagApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
